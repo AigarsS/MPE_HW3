@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MPE-HW3</string>
+
+    <string-array name="themes">
+        <item>Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
 </resources>
